@@ -4,7 +4,6 @@ export default () => (
     Hello World.{" "}
     <Link href="/about">
       <a>About</a>
-      Hello World
     </Link>
   </div>
 );
